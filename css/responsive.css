@@ -15,7 +15,7 @@
   /* banner-part-start */
 
   #banner{
-    padding-top: 110px;
+    padding-top: 200px;
     padding-bottom: 140px;
   }
 
@@ -54,7 +54,7 @@
 
 #banner .banner_arrow{
   position: absolute;
-  top: 54%;
+  bottom: 35%;
   left: 48%;
   transform: translateX(-50%);
 }
